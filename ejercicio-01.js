@@ -1,4 +1,3 @@
-// Array o arreglos
 const infoPersonal = [
   "adriel",
   33,
